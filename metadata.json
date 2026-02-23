@@ -1,0 +1,5 @@
+{
+  "name": "Judo Diary (유도 일기)",
+  "description": "A clean and functional Judo training log app to track techniques learned and visualize progress on a calendar.",
+  "requestFramePermissions": []
+}
