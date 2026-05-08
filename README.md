@@ -1,5 +1,7 @@
+
 # 🥋 유도 일지 (Judo Diary)
 
+https://ldhishere.github.io/judo-diary/
 유도 수련 기록을 체계적으로 관리하고 시각적으로 확인할 수 있는 개인 프로젝트입니다.
 
 ## ✨ 주요 기능
